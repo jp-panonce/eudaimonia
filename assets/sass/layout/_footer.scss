@@ -1,0 +1,18 @@
+///
+/// jp's eudaimonia
+///  | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (/license)
+///
+
+/* Footer */
+
+	#footer {
+		.copyright {
+			color: _palette(fg-light);
+			font-size: 0.9em;
+
+			a {
+				color: inherit;
+			}
+		}
+	}
